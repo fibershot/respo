@@ -1,0 +1,9 @@
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\bin\Debug\GUILearning.exe.config
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\bin\Debug\GUILearning.exe
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\bin\Debug\GUILearning.pdb
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\obj\Debug\GUILearning.csprojAssemblyReference.cache
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\obj\Debug\GUILearning.Form1.resources
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\obj\Debug\GUILearning.Properties.Resources.resources
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\obj\Debug\GUILearning.csproj.GenerateResource.cache
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\obj\Debug\GUILearning.exe
+C:\Users\tonim\Documents\Visual Studio Projects\GUILearning\obj\Debug\GUILearning.pdb
